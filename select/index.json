@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ZENITH",
+  "base_artist": "ELFENSJóN",
+  "createdAt": "2025-12-05T12:20:28.995472Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Zenith - Instrumental",
+      "artist": "Kavinsky",
+      "has_synced": false,
+      "path": "select/01_Zenith_-_Instrumental_Kavinsky.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Zenith",
+      "artist": "Kavinsky",
+      "has_synced": false,
+      "path": "select/02_Zenith_Kavinsky.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Zenith",
+      "artist": "Denzel Curry feat. Joey Bada$$",
+      "has_synced": true,
+      "path": "select/03_Zenith_Denzel_Curry_feat._Joey_Bada$$.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Zenith (feat. Joey Bada$$)",
+      "artist": "Denzel Curry",
+      "has_synced": true,
+      "path": "select/04_Zenith_(feat._Joey_Bada$$)_Denzel_Curry.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Descent to the Zenith",
+      "artist": "Earth",
+      "has_synced": false,
+      "path": "select/05_Descent_to_the_Zenith_Earth.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Apart - Live At Zenith, Paris",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/06_Apart_-_Live_At_Zenith,_Paris_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "At Night - Live At Zenith, Paris",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/07_At_Night_-_Live_At_Zenith,_Paris_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Catch - Live At Zenith, Paris",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/08_Catch_-_Live_At_Zenith,_Paris_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Charlotte Sometimes - Live At Zenith, Paris",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/09_Charlotte_Sometimes_-_Live_At_Zenith,_Paris_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Close To Me - Live At Zenith, Paris",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/10_Close_To_Me_-_Live_At_Zenith,_Paris_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dressing Up - Live At Zenith, Paris",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/11_Dressing_Up_-_Live_At_Zenith,_Paris_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Hundred Years - Live At Zenith, Paris",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/12_One_Hundred_Years_-_Live_At_Zenith,_Paris_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In Your House - Live At Zenith, Paris",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/13_In_Your_House_-_Live_At_Zenith,_Paris_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Play For Today - Live At Zenith, Paris",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/14_Play_For_Today_-_Live_At_Zenith,_Paris_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Figurehead - Live At Zenith, Paris",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/15_The_Figurehead_-_Live_At_Zenith,_Paris_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Zenith",
+      "artist": "After Forever",
+      "has_synced": true,
+      "path": "select/16_Zenith_After_Forever.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Götterdämmerung (Zenith of Power)",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/17_Götterdämmerung_(Zenith_of_Power)_Stratovarius.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ZENITH",
+      "artist": "ELFENSJóN",
+      "has_synced": false,
+      "path": "select/pl_01_ZENITH_ELFENSJóN.txt"
+    }
+  ]
+}
